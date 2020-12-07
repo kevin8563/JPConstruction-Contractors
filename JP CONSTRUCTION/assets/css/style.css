@@ -77,10 +77,12 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 0.5px;
   font-weight: 500;
   font-family: "Open Sans", sans-serif;
+  font: bold;
+  font-size: 17px;
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #ff8600;
+  color: black;
 }
 
 
